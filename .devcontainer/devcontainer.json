@@ -1,0 +1,14 @@
+{
+  "name": "PharmaB2B Togo",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:20",
+  "features": {
+    "ghcr.io/devcontainers/features/docker-in-docker:2": {}
+  },
+  "forwardPorts": [5432, 8000, 9000, 3000],
+  "portsAttributes": {
+    "5432": { "label": "PostgreSQL", "onAutoForward": "silent" },
+    "8000": { "label": "Storefront", "onAutoForward": "notify", "visibility": "public" },
+    "9000": { "label": "Medusa Backend + Admin", "onAutoForward": "notify", "visibility": "public" },
+    "3000": { "label": "Storefront (alt)", "onAutoForward": "notify", "visibility": "public" }
+  }
+}

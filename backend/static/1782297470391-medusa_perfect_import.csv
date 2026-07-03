@@ -1,0 +1,15 @@
+Product Id,Product Handle,Product Title,Product Subtitle,Product Description,Product Status,Product Thumbnail,Product Weight,Product Length,Product Width,Product Height,Product HS Code,Product Origin Country,Product MID Code,Product Material,Shipping Profile Id,Product Sales Channel 1,Product Collection Id,Product Type Id,Product Tag 1,Product Discountable,Product External Id,Variant Id,Variant Title,Variant SKU,Variant Barcode,Variant Allow Backorder,Variant Manage Inventory,Variant Weight,Variant Length,Variant Width,Variant Height,Variant HS Code,Variant Origin Country,Variant MID Code,Variant Material,Variant Option 1 Name,Variant Option 1 Value,Product Image 1 Url,Product Image 2 Url,Variant Price XOF
+,anastrozole-1mg,ANASTROZOLE 1 mg,,Inhibiteur de l aromatase cancer du sein,published,,,,,,,,,,,,,,,TRUE,,,Boite,PHARMA-ANA-001,,FALSE,FALSE,,,,,,,,,Format,Default,,,4500
+,ranitidine-150mg,RANITIDINE 150 mg,,Antagoniste des recepteurs H2 ulceres,published,,,,,,,,,,,,,,,TRUE,,,Boite,PHARMA-RAN-002,,FALSE,FALSE,,,,,,,,,Format,Default,,,2500
+,actaea-racemosa,ACTAEA RACEMOSA,,Medicament homeopathique,published,,,,,,,,,,,,,,,TRUE,,,Boite,PHARMA-ACT-003,,FALSE,FALSE,,,,,,,,,Format,Default,,,1800
+,curcuma-xanthorrhiza,CURCUMA XANTHORRHIZA,,Preparation pour fonctions biliaires,published,,,,,,,,,,,,,,,TRUE,,,Boite,PHARMA-CUR-004,,FALSE,FALSE,,,,,,,,,Format,Default,,,2200
+,beclometasone-800mcg,BECLOMETASONE 800 mcg,,Corticoide traitement de fond de l asthme,published,,,,,,,,,,,,,,,TRUE,,,Boite,PHARMA-BEC-005,,FALSE,FALSE,,,,,,,,,Format,Default,,,6500
+,fenofibrate-100mg,FENOFIBRATE 100 mg,,Hypolipidemiant contre le cholesterol,published,,,,,,,,,,,,,,,TRUE,,,Boite,PHARMA-FEN-006,,FALSE,FALSE,,,,,,,,,Format,Default,,,3200
+,tramadol-200mg,TRAMADOL 200 mg,,Antalgique central douleurs severes,published,,,,,,,,,,,,,,,TRUE,,,Boite,PHARMA-TRA-007,,FALSE,FALSE,,,,,,,,,Format,Default,,,5000
+,cabazitaxel-60mg,CABAZITAXEL 60 mg,,Antineoplasique cancer prostate,published,,,,,,,,,,,,,,,TRUE,,,Boite,PHARMA-CAB-008,,FALSE,FALSE,,,,,,,,,Format,Default,,,85000
+,famotidine-20mg,FAMOTIDINE 20 mg,,Antiacide hyperacidite gastrique,published,,,,,,,,,,,,,,,TRUE,,,Boite,PHARMA-FAM-009,,FALSE,FALSE,,,,,,,,,Format,Default,,,1900
+,paracetamol-500mg,PARACETAMOL 500 mg,,Antalgique et antipyrétique de base,published,,,,,,,,,,,,,,,TRUE,,,Boite,PHARMA-PAR-017,,FALSE,FALSE,,,,,,,,,Format,Default,,,1200
+,ciprofloxacine-250mg,CIPROFLOXACINE 250 mg,,Antibiotique fluoroquinolone infections,published,,,,,,,,,,,,,,,TRUE,,,Boite,PHARMA-CIP-022,,FALSE,FALSE,,,,,,,,,Format,Default,,,3100
+,pregabaline-300mg,PREGABALINE 300 mg,,Douleurs neuropathiques et anxiete,published,,,,,,,,,,,,,,,TRUE,,,Boite,PHARMA-PRE-029,,FALSE,FALSE,,,,,,,,,Format,Default,,,9500
+,entecavir-1mg,ENTECAVIR 1 mg,,Antiviral hepatite B chronique,published,,,,,,,,,,,,,,,TRUE,,,Boite,PHARMA-ENT-030,,FALSE,FALSE,,,,,,,,,Format,Default,,,45000
+,gabapentine-400mg,GABAPENTINE 400 mg,,Anti epileptique et douleurs,published,,,,,,,,,,,,,,,TRUE,,,Boite,PHARMA-GAB-049,,FALSE,FALSE,,,,,,,,,Format,Default,,,5800

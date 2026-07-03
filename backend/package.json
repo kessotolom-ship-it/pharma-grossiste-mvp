@@ -1,0 +1,35 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "medusa develop --host 0.0.0.0",
+    "build": "medusa build",
+    "start": "medusa start",
+    "seed": "medusa exec ./src/scripts/seed.ts",
+    "migrate": "medusa db:migrate"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@medusajs/cli": "^2.16.0",
+    "@medusajs/framework": "^2.16.0",
+    "@medusajs/medusa": "^2.16.0"
+  },
+  "devDependencies": {
+    "@medusajs/admin-bundler": "^2.16.0",
+    "@medusajs/admin-sdk": "^2.16.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^6.0.3"
+  },
+  "allowScripts": {
+    "@medusajs/telemetry@2.16.0": true,
+    "esbuild@0.21.5": true,
+    "msgpackr-extract@3.0.4": true,
+    "protobufjs@7.6.4": true
+  }
+}
